@@ -24,3 +24,4 @@ Link to full project this code was made for:
 https://gitlab.engr.illinois.edu/ie421_high_frequency_trading_fall_2024/ie421_hft_fall_2024_group_02/group_02_project
 
 Anton Charov's Github:
+https://github.com/acharov11
